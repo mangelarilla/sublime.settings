@@ -1,0 +1,13 @@
+{
+	"font_face": "Fira Code",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"hot_exit": false, 
+	"remember_open_files": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
