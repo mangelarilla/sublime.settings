@@ -9,6 +9,8 @@
 		"nginx",
 		"Package Control",
 		"PowerShell",
-		"Terraform"
+		"Rust Enhanced",
+		"Terraform",
+		"TOML"
 	]
 }
