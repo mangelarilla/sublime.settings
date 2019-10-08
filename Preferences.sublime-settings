@@ -2,7 +2,8 @@
 	"font_face": "Fira Code",
 	"font_options":
 	[
-		"subpixel_antialias"
+		"subpixel_antialias",
+		"gray_antialias"
 	],
 	"hot_exit": false, 
 	"remember_open_files": false,
