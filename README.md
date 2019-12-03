@@ -1,6 +1,6 @@
 # Sublime Text 3 preferences
 
-Windows folder: `~\AppData\Roaming\Sublime Text 3\Packages\User`
+Windows folder: `%USERPROFILE%\AppData\Roaming\Sublime Text 3\Packages\User`
 
 ## Pre-requisites
 
