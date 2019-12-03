@@ -5,10 +5,11 @@
 		"subpixel_antialias",
 		"gray_antialias"
 	],
-	"hot_exit": false, 
-	"remember_open_files": false,
+	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Rust",
 		"Vintage"
-	]
+	],
+	"remember_open_files": false
 }
