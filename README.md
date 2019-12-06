@@ -1,6 +1,7 @@
 # Sublime Text 3 preferences
 
 Windows folder: `%USERPROFILE%\AppData\Roaming\Sublime Text 3\Packages\User`
+
 Arch folder: `~/.config/sublime-text-3/Packages/User`
 
 ## Pre-requisites
