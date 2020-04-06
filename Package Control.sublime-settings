@@ -11,6 +11,7 @@
 		"PowerShell",
 		"Rust Enhanced",
 		"Terraform",
-		"TOML"
+		"TOML",
+		"Vue Syntax Highlight"
 	]
 }
